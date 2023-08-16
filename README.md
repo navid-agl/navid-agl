@@ -1,4 +1,4 @@
-- Navid Shokouhi,
+Navid Shokouhi,
  
-- Senior ML Engineer, 
-- CADPAA Team
+Senior ML Engineer, 
+CADPAA Team
